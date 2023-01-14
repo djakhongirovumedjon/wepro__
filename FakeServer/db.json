@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "name": "Алишер Мардиев",
+      "salary": 5000,
+      "increase": true,
+      "rise": true,
+      "id": 5
+    },
+    {
+      "name": "Хуршида",
+      "salary": 5000,
+      "increase": true,
+      "rise": true,
+      "id": 9
+    },
+    {
+      "name": "Дилшод Муртазоев",
+      "salary": 5000,
+      "increase": true,
+      "rise": false,
+      "id": 10
+    },
+    {
+      "name": "Ориф",
+      "salary": 5000,
+      "increase": true,
+      "rise": true,
+      "id": 11
+    },
+    {
+      "name": "Улугбек",
+      "salary": 5000,
+      "increase": false,
+      "rise": false,
+      "id": 12
+    },
+    {
+      "name": "Влад Цой",
+      "salary": 5000,
+      "increase": false,
+      "rise": false,
+      "id": 13
+    },
+    {
+      "name": "Алина",
+      "salary": 5000,
+      "increase": false,
+      "rise": true,
+      "id": 14
+    },
+    {
+      "id": 0.4656599742771168,
+      "increase": false,
+      "rise": false,
+      "name": "sfksafowFE",
+      "surname": "",
+      "photo": "",
+      "salary": "SFSFFE"
+    },
+    {
+      "id": 0.2686991788653519,
+      "increase": false,
+      "rise": false,
+      "name": "Умед",
+      "surname": "",
+      "photo": "",
+      "salary": "5500000"
+    },
+    {
+      "id": 0.3642556177881664,
+      "increase": false,
+      "rise": false,
+      "name": "",
+      "surname": "ываывы",
+      "photo": "",
+      "salary": ""
+    },
+    {
+      "id": 0.06557246806287287,
+      "increase": false,
+      "rise": false,
+      "name": "",
+      "surname": "",
+      "photo": "вываыа",
+      "salary": ""
+    },
+    {
+      "id": 0.05487858252081956,
+      "increase": false,
+      "rise": false,
+      "name": "ы",
+      "surname": "",
+      "photo": "",
+      "salary": ""
+    },
+    {
+      "id": 0.07662770402382657,
+      "increase": false,
+      "rise": false,
+      "name": "ddd",
+      "surname": "",
+      "photo": "",
+      "salary": ""
+    },
+    {
+      "id": 0.00968212049767736,
+      "increase": false,
+      "rise": false,
+      "name": "sss",
+      "surname": "",
+      "photo": "",
+      "salary": ""
+    }
+  ]
+}
